@@ -7,7 +7,7 @@ An exploratory analysis of 3pt shooting percentage during the 2014-2015 NBA Seas
 NBA shot log dataset from https://www.kaggle.com/dansbecker/nba-shot-logs. This dataset contains a collection of shots data from the 2014-2015 NBA Season. Analyzed data from the dataset includes "PTS_TYPE", "player_name", "SHOT_RESULT", "CLOSE_DEF_DIST".
 
 ## Discussion
-![3pt Shooting Avg vs Closest Defender Avg Distance]
+![3pt Shooting Avg vs Closest Defender Avg Distance](https://github.com/ehrlichj/nba_shot_analysis/blob/master/images/chart1.png)
 
 One thing that we should notice when looking at our resulting graph is the are blue points which appear above some of gold points. This should be impossible to occur since this would suggest that one of the blue points is would in fact be a Top 15 Shooter. This could be explained by our inital dataset being incomplete and missing some data. I assume this to be true since the Top 15 shooter list was taken from "basketball-reference.com" a reliable source on the subject.
 
